@@ -1,5 +1,5 @@
 # aclatex
-Auto Complier tool for LaTeX
+Auto Complie tool for LaTeX
 
 ## Requirement
 * PyYAML == 3.12
