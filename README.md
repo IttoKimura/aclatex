@@ -1,5 +1,5 @@
 # aclatex
-Auto Complier tool for LaTex
+Auto Complier tool for LaTeX
 
 ## Requirement
 * PyYAML == 3.12
@@ -9,7 +9,7 @@ Auto Complier tool for LaTex
 aclatex.yamlに以下の設定を記述する
 * file_name: 監視したいファイル名
 * dir_path : 監視したいファイルのあるディレクトリへの絶対パス
-* interval : ファイル監視のインターバル
+* interval : ファイル監視のインターバル(秒)
 
 ### Sample
 ``` yaml
