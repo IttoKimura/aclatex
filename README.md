@@ -1,6 +1,10 @@
 # aclatex
 Auto Complier tool for LaTex
 
+## Requirement
+PyYAML == 3.12
+watchdog == 0.8.3
+
 ## How to use
 aclatex.yamlに以下の設定を記述する
 * file_name: 監視したいファイル名
@@ -17,3 +21,7 @@ interval: 2    # 2秒のインターバル
 ``` shell
 python aclatex.py
 ```
+
+## License
+MIT License
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
